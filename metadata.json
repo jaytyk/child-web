@@ -1,0 +1,6 @@
+{
+  "name": "토끼의 꼬마 배움터",
+  "description": "만 3세 유아를 위한 오프라인 안전 한국어 교육용 웹앱. 색칠놀이, 숫자놀이, 미로찾기, 짝맞추기, 그림자맞추기, 풍선터뜨리기, 한글낱말놀이와 스티커북.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
